@@ -1,6 +1,6 @@
 # RMonitor
 
-Live view and REC for several Sony cameras at once, over Wi-Fi, on your Mac. Every camera's picture sits side by side in one window, and one big **REC ALL** button starts and stops recording on all of them together. Each camera also has its own REC button, battery, card time and a red frame with a timer while it records. Click a camera to see it big, click again to go back to the grid. Rename cameras, rotate portrait ones, and go full screen. Save each set of cameras as a project, like "My Kit", and open it from the home page to connect to those cameras.
+Live view and REC for several Sony cameras at once, over Wi-Fi, on your Mac. Every camera's picture sits side by side in one window, and one big **REC ALL** button starts and stops recording on all of them together. Each camera also has its own REC button, battery, card time and a red frame with a timer while it records. Click a camera to see it big, click again to go back to the grid. Rename cameras, rotate portrait ones, and go full screen. Save each set of cameras as a project, like "My Kit", and open it from the home page to connect to those cameras. **Sync Sound** (optional) plays a short beep from the Mac just after REC ALL starts, so every clip gets the same spike in its audio and lines up instantly in the edit.
 
 ## Download
 
