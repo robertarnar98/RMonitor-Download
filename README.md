@@ -20,11 +20,11 @@ Tested with the Sony a7 V. Other Sony cameras that support Sony's Camera Remote 
 
 ## Updates
 
-RMonitor doesn't check for updates. Come back to this page for new versions.
+From version 0.6, you don't need to come back here. When there's a new version, a card pops up in RMonitor. Click **Update Now** and it updates itself in a few seconds and reopens. It never updates while a camera is recording. You can also choose **RMonitor ▸ Check for Updates…** any time. (On 0.5 or older, download the newest version here once.)
 
 ## Privacy
 
-RMonitor never goes online. It only talks to your cameras on your own network. No accounts, no analytics, no tracking. Camera passwords stay in your Mac's Keychain, and footage stays on the camera cards.
+RMonitor collects nothing: no accounts, no analytics, no tracking. It talks to your cameras on your own network, and it only goes online to look for updates on this page. That check sends nothing about you, your Mac or your cameras. GitHub, which hosts this page and the downloads, sees those requests like any web visit ([GitHub's privacy statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)). Camera passwords stay in your Mac's Keychain, and footage stays on the camera cards.
 
 ## Terms
 
